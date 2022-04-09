@@ -1,6 +1,6 @@
 # Scarecrow
 
-🎃 SCARECROW - THE SHIB PROTECTOR is the latest ERC-20 token with the aim to scare all the predators away and protect our master - SHIB 🎃
+🎃 SCROW - THE SHIB PROTECTOR is the latest ERC-20 token with the aim to scare all the predators away and protect our master - SHIB 🎃
 
 
 This is a TAX-FREE token 👀
